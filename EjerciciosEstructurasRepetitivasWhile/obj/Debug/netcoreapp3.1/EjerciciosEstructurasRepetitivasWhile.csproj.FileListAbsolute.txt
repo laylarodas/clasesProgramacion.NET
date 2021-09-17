@@ -1,0 +1,13 @@
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasWhile\bin\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasWhile.exe
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasWhile\bin\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasWhile.deps.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasWhile\bin\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasWhile.runtimeconfig.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasWhile\bin\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasWhile.runtimeconfig.dev.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasWhile\bin\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasWhile.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasWhile\bin\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasWhile.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasWhile\obj\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasWhile.AssemblyInfoInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasWhile\obj\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasWhile.AssemblyInfo.cs
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasWhile\obj\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasWhile.csproj.CoreCompileInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasWhile\obj\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasWhile.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasWhile\obj\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasWhile.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasWhile\obj\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasWhile.genruntimeconfig.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasWhile\obj\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasWhile.csproj.AssemblyReference.cache

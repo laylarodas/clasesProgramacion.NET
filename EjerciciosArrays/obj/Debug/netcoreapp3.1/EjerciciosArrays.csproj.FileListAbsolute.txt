@@ -1,0 +1,12 @@
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosArrays\bin\Debug\netcoreapp3.1\EjerciciosArrays.exe
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosArrays\bin\Debug\netcoreapp3.1\EjerciciosArrays.deps.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosArrays\bin\Debug\netcoreapp3.1\EjerciciosArrays.runtimeconfig.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosArrays\bin\Debug\netcoreapp3.1\EjerciciosArrays.runtimeconfig.dev.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosArrays\bin\Debug\netcoreapp3.1\EjerciciosArrays.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosArrays\bin\Debug\netcoreapp3.1\EjerciciosArrays.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosArrays\obj\Debug\netcoreapp3.1\EjerciciosArrays.AssemblyInfoInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosArrays\obj\Debug\netcoreapp3.1\EjerciciosArrays.AssemblyInfo.cs
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosArrays\obj\Debug\netcoreapp3.1\EjerciciosArrays.csproj.CoreCompileInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosArrays\obj\Debug\netcoreapp3.1\EjerciciosArrays.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosArrays\obj\Debug\netcoreapp3.1\EjerciciosArrays.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosArrays\obj\Debug\netcoreapp3.1\EjerciciosArrays.genruntimeconfig.cache

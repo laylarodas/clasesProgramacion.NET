@@ -1,0 +1,13 @@
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioPalabraInvertida\bin\Debug\netcoreapp3.1\EjercicioPalabraInvertida.exe
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioPalabraInvertida\bin\Debug\netcoreapp3.1\EjercicioPalabraInvertida.deps.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioPalabraInvertida\bin\Debug\netcoreapp3.1\EjercicioPalabraInvertida.runtimeconfig.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioPalabraInvertida\bin\Debug\netcoreapp3.1\EjercicioPalabraInvertida.runtimeconfig.dev.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioPalabraInvertida\bin\Debug\netcoreapp3.1\EjercicioPalabraInvertida.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioPalabraInvertida\bin\Debug\netcoreapp3.1\EjercicioPalabraInvertida.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioPalabraInvertida\obj\Debug\netcoreapp3.1\EjercicioPalabraInvertida.csproj.AssemblyReference.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioPalabraInvertida\obj\Debug\netcoreapp3.1\EjercicioPalabraInvertida.AssemblyInfoInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioPalabraInvertida\obj\Debug\netcoreapp3.1\EjercicioPalabraInvertida.AssemblyInfo.cs
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioPalabraInvertida\obj\Debug\netcoreapp3.1\EjercicioPalabraInvertida.csproj.CoreCompileInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioPalabraInvertida\obj\Debug\netcoreapp3.1\EjercicioPalabraInvertida.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioPalabraInvertida\obj\Debug\netcoreapp3.1\EjercicioPalabraInvertida.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioPalabraInvertida\obj\Debug\netcoreapp3.1\EjercicioPalabraInvertida.genruntimeconfig.cache

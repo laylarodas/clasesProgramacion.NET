@@ -1,0 +1,13 @@
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\Ejercicios\bin\Debug\netcoreapp3.1\EjerciciosEntradaSalida.exe
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\Ejercicios\bin\Debug\netcoreapp3.1\EjerciciosEntradaSalida.deps.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\Ejercicios\bin\Debug\netcoreapp3.1\EjerciciosEntradaSalida.runtimeconfig.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\Ejercicios\bin\Debug\netcoreapp3.1\EjerciciosEntradaSalida.runtimeconfig.dev.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\Ejercicios\bin\Debug\netcoreapp3.1\EjerciciosEntradaSalida.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\Ejercicios\bin\Debug\netcoreapp3.1\EjerciciosEntradaSalida.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\Ejercicios\obj\Debug\netcoreapp3.1\EjerciciosEntradaSalida.csproj.AssemblyReference.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\Ejercicios\obj\Debug\netcoreapp3.1\EjerciciosEntradaSalida.AssemblyInfoInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\Ejercicios\obj\Debug\netcoreapp3.1\EjerciciosEntradaSalida.AssemblyInfo.cs
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\Ejercicios\obj\Debug\netcoreapp3.1\EjerciciosEntradaSalida.csproj.CoreCompileInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\Ejercicios\obj\Debug\netcoreapp3.1\EjerciciosEntradaSalida.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\Ejercicios\obj\Debug\netcoreapp3.1\EjerciciosEntradaSalida.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\Ejercicios\obj\Debug\netcoreapp3.1\EjerciciosEntradaSalida.genruntimeconfig.cache

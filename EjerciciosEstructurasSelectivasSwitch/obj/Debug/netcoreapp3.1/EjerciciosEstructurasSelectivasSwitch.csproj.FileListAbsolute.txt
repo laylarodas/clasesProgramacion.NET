@@ -1,0 +1,13 @@
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivasSwitch\bin\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivasSwitch.exe
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivasSwitch\bin\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivasSwitch.deps.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivasSwitch\bin\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivasSwitch.runtimeconfig.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivasSwitch\bin\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivasSwitch.runtimeconfig.dev.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivasSwitch\bin\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivasSwitch.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivasSwitch\bin\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivasSwitch.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivasSwitch\obj\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivasSwitch.AssemblyInfoInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivasSwitch\obj\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivasSwitch.AssemblyInfo.cs
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivasSwitch\obj\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivasSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivasSwitch\obj\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivasSwitch.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivasSwitch\obj\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivasSwitch.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivasSwitch\obj\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivasSwitch.genruntimeconfig.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivasSwitch\obj\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivasSwitch.csproj.AssemblyReference.cache

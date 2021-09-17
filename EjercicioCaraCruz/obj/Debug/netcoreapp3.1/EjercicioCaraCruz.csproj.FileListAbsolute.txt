@@ -1,0 +1,13 @@
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioCaraCruz\bin\Debug\netcoreapp3.1\EjercicioCaraCruz.exe
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioCaraCruz\bin\Debug\netcoreapp3.1\EjercicioCaraCruz.deps.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioCaraCruz\bin\Debug\netcoreapp3.1\EjercicioCaraCruz.runtimeconfig.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioCaraCruz\bin\Debug\netcoreapp3.1\EjercicioCaraCruz.runtimeconfig.dev.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioCaraCruz\bin\Debug\netcoreapp3.1\EjercicioCaraCruz.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioCaraCruz\bin\Debug\netcoreapp3.1\EjercicioCaraCruz.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioCaraCruz\obj\Debug\netcoreapp3.1\EjercicioCaraCruz.csproj.AssemblyReference.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioCaraCruz\obj\Debug\netcoreapp3.1\EjercicioCaraCruz.AssemblyInfoInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioCaraCruz\obj\Debug\netcoreapp3.1\EjercicioCaraCruz.AssemblyInfo.cs
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioCaraCruz\obj\Debug\netcoreapp3.1\EjercicioCaraCruz.csproj.CoreCompileInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioCaraCruz\obj\Debug\netcoreapp3.1\EjercicioCaraCruz.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioCaraCruz\obj\Debug\netcoreapp3.1\EjercicioCaraCruz.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjercicioCaraCruz\obj\Debug\netcoreapp3.1\EjercicioCaraCruz.genruntimeconfig.cache

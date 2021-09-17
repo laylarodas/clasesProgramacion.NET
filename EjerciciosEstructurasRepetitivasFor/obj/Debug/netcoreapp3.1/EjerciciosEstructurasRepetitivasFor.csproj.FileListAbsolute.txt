@@ -1,0 +1,13 @@
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasFor\bin\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasFor.exe
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasFor\bin\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasFor.deps.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasFor\bin\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasFor.runtimeconfig.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasFor\bin\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasFor.runtimeconfig.dev.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasFor\bin\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasFor.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasFor\bin\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasFor.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasFor\obj\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasFor.AssemblyInfoInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasFor\obj\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasFor.AssemblyInfo.cs
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasFor\obj\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasFor.csproj.CoreCompileInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasFor\obj\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasFor.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasFor\obj\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasFor.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasFor\obj\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasFor.genruntimeconfig.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasRepetitivasFor\obj\Debug\netcoreapp3.1\EjerciciosEstructurasRepetitivasFor.csproj.AssemblyReference.cache

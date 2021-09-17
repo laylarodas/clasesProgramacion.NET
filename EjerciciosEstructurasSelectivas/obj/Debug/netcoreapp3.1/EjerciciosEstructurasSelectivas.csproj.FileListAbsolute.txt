@@ -1,0 +1,13 @@
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivas\obj\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivas.AssemblyInfoInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivas\obj\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivas.AssemblyInfo.cs
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivas\obj\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivas.csproj.CoreCompileInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivas\bin\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivas.exe
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivas\bin\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivas.deps.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivas\bin\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivas.runtimeconfig.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivas\bin\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivas.runtimeconfig.dev.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivas\bin\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivas.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivas\bin\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivas.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivas\obj\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivas.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivas\obj\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivas.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivas\obj\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivas.genruntimeconfig.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\EjerciciosEstructurasSelectivas\obj\Debug\netcoreapp3.1\EjerciciosEstructurasSelectivas.csproj.AssemblyReference.cache

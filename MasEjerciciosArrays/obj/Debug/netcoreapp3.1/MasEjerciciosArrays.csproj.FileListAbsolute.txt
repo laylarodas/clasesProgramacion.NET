@@ -1,0 +1,13 @@
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\MasEjerciciosArrays\bin\Debug\netcoreapp3.1\MasEjerciciosArrays.exe
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\MasEjerciciosArrays\bin\Debug\netcoreapp3.1\MasEjerciciosArrays.deps.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\MasEjerciciosArrays\bin\Debug\netcoreapp3.1\MasEjerciciosArrays.runtimeconfig.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\MasEjerciciosArrays\bin\Debug\netcoreapp3.1\MasEjerciciosArrays.runtimeconfig.dev.json
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\MasEjerciciosArrays\bin\Debug\netcoreapp3.1\MasEjerciciosArrays.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\MasEjerciciosArrays\bin\Debug\netcoreapp3.1\MasEjerciciosArrays.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\MasEjerciciosArrays\obj\Debug\netcoreapp3.1\MasEjerciciosArrays.AssemblyInfoInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\MasEjerciciosArrays\obj\Debug\netcoreapp3.1\MasEjerciciosArrays.AssemblyInfo.cs
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\MasEjerciciosArrays\obj\Debug\netcoreapp3.1\MasEjerciciosArrays.csproj.CoreCompileInputs.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\MasEjerciciosArrays\obj\Debug\netcoreapp3.1\MasEjerciciosArrays.dll
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\MasEjerciciosArrays\obj\Debug\netcoreapp3.1\MasEjerciciosArrays.pdb
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\MasEjerciciosArrays\obj\Debug\netcoreapp3.1\MasEjerciciosArrays.genruntimeconfig.cache
+C:\Users\Layla\Desktop\C#\guiaDeEjercicios\MasEjerciciosArrays\obj\Debug\netcoreapp3.1\MasEjerciciosArrays.csproj.AssemblyReference.cache
